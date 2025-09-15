@@ -12,6 +12,7 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/FastAPI-61DAFB?style=flat&logo=FastAPI&logoColor=white">
           <br/>
           </div>
     </div>
